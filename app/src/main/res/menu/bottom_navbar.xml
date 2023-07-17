@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/alarm"
+        android:title="@string/alarm"
+        android:icon="@drawable/twotone_alarm_24"
+        android:iconTint="#31A69D"/>
+    <item android:id="@+id/stopWatch"
+        android:title="Stopwatch"
+        android:icon="@drawable/twotone_stopwatch_24"
+        android:iconTint="#31A69D"/>
+    <item android:id="@+id/worldClock"
+        android:title="World Clock"
+        android:icon="@drawable/twotone_world_timer_24"
+        android:iconTint="#31A69D"/>
+    <item android:id="@+id/timer"
+        android:title="Timer"
+        android:icon="@drawable/twotone_timer_24"
+        android:iconTint="#31A69D"/>
+</menu>

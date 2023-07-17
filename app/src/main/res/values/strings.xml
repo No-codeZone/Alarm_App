@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alarm App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="world_clock">World Clock</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="alarm">Alarm</string>
+    <string name="timer">Timer</string>
+    <string name="to_set_alarm">To set Alarm</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="to_reset_the_stopwatch">reset</string>
+    <string name="to_pause_stopwatch">pause</string>
+    <string name="to_play_the_stopwatch">play</string>
+    <string name="city_zone">Zone</string>
+    <string name="gmt">GMT</string>
+</resources>
